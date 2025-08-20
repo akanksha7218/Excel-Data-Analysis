@@ -1,6 +1,9 @@
 # 📊 Excel Sales Performance Dashboard
 
-![Dashboard Screenshot](Excel-Project-1.jpg)
+## 📌 Dashboard Preview
+![Dashboard Screenshot](https://raw.githubusercontent.com/username/repo/main/Excel%20Project%201.jpg)
+
+---
 
 ## 🔹 Project Overview
 This project demonstrates the use of **Microsoft Excel as a Business Intelligence (BI) tool** by developing an **interactive Sales Dashboard**.  
@@ -74,3 +77,4 @@ I designed a **dynamic dashboard in Excel** that:
 This project highlights how Excel can go beyond spreadsheets to act as a **powerful visualization & analytics tool for business performance monitoring**.  
 
 ---
+
