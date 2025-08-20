@@ -1,7 +1,8 @@
 # 📊 Excel Sales Performance Dashboard
 
 ## 📌 Dashboard Preview
-![Dashboard Screenshot](https://raw.githubusercontent.com/username/repo/main/Excel%20Project%201.jpg)
+![Dashboard Screenshot](https://raw.githubusercontent.com/akanksha7218/Excel-Data-Analysis/main/Excel%20Project%201.jpg)
+
 
 ---
 
