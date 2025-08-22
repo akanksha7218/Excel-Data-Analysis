@@ -107,7 +107,7 @@ I designed a **dynamic dashboard in Excel** that:
 
 ### 📉 Dashboard 4: Away From Target %
 
-![Dashboard 4](images/E7.png)
+![Dashboard 4](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/E7.png)
 
 - **Most Off-Target**: Omprakash O – **71.40% away from target**
 - Least off-target: Prabha Desikan – **65.80%**
