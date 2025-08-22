@@ -118,7 +118,7 @@ I designed a **dynamic dashboard in Excel** that:
 
 ### 📈 Line Chart: Away from Target % Trend
 
-![Trend Line](images/E3.png)
+![Trend Line](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/E3.png)
 
 - Spike in gap for **Omprakash O (71.40%)**
 - Lowest gap: **Prabha Desikan (65.80%)**
