@@ -92,7 +92,7 @@ I designed a **dynamic dashboard in Excel** that:
 
 ### 🏁 Dashboard 3: Target Achievement %
 
-![Dashboard 3](images/E6.png)
+![Dashboard 3](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/E6.png)
 
 - **Highest Achievement**: Jagdish Chandra – **77.80%**
 - Others closely following:
