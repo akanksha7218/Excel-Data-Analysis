@@ -155,7 +155,7 @@ I designed a **dynamic dashboard in Excel** that:
 - Chennai, Delhi, Mumbai, Nagpur
 
 ### 📍 Group 2 Cities
-![Cities 2](images/E9.png)
+![Cities 2](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/E9.png)
 
 - Patna, Pune, Ranchi, **Surat** (highlighted)
 
