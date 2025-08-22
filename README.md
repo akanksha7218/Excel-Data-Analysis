@@ -63,7 +63,7 @@ I designed a **dynamic dashboard in Excel** that:
 
 ### 🧮 Dashboard 1: Total Sales (Group 1)
 
-![Dashboard 1](images/E1.png)
+![Dashboard 1](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/E1.png)
 
 - **Top Performer**: Jagdish Chandra – **389 sales**
 - **Other Notable Performers**:
