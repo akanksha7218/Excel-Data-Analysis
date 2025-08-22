@@ -126,27 +126,6 @@ I designed a **dynamic dashboard in Excel** that:
 
 ---
 
-### 🧾 Sales Tables
-
-#### 📋 Dashboard 1 Table
-![Sales Table - Group 1](images/E4.png)
-
-#### 📋 Dashboard 2 Table
-![Sales Table - Group 2](images/E5.png)
-
----
-
-## 📊 Pie Chart: Equal Distribution (Illustrative)
-
-![Pie Chart](images/E2.png)
-
-- Equal distribution (20%) across five segments.
-- Possibly used for segment-wise territory or quota distribution.
-
-> 📌 Could represent an even regional allocation of sales territories or teams.
-
----
-
 ## 🗺️ Cities Covered
 
 ### 📍 Group 1 Cities
