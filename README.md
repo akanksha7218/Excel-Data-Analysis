@@ -150,7 +150,7 @@ I designed a **dynamic dashboard in Excel** that:
 ## 🗺️ Cities Covered
 
 ### 📍 Group 1 Cities
-![Cities 1](images/E8.png)
+![Cities 1](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/E8.png)
 
 - Chennai, Delhi, Mumbai, Nagpur
 
